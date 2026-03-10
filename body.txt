@@ -1,0 +1,5 @@
+head
+hand
+leg'
+fingers
+mouth
